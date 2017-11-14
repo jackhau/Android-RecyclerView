@@ -2,7 +2,7 @@ Android RecyclerView Sample
 ===================================
 
 Sample demonstrating the use of RecyclerView to layout elements with a LinearLayoutManager using vertical.
-It also onclick the itemview intent to new activity display value.
+It also onclick the itemview intent to new activity display value. RecyclerView is available in the v7 Support Library, thus compatible with API level 7 and above.
 
 Pre-requisites
 --------------
